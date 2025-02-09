@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Oleksii Lytvyn (@oleksiilytvyn)
-- 👀 I’m interested in developing apps 
-- 📫 Reach me at programer95@gmail.com
+- 👋🏻 Hi, I’m Oleksii Lytvyn (@oleksiilytvyn)
